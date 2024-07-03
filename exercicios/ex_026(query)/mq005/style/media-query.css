@@ -8,4 +8,13 @@
     nav{
         display: block;
     }
+
+    nav li{
+        display: inline-block;
+        
+    }
+
+    main {
+        width: 768px;
+    }
 }
