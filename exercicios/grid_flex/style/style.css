@@ -83,7 +83,7 @@ img{
     border: 1px solid rgba(0, 0, 0, 0.384);
 }
 
-.grid1 div:nth-child(n +4){
+.grid1 div:nth-child(n + 4){
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
