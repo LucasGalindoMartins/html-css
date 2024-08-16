@@ -35,3 +35,14 @@ section#phone{
     background-image: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
 }
+
+iframe#tela{
+    height: 465px;
+    width: 260px;
+    margin-left: 26px;
+    margin-top: 83px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
