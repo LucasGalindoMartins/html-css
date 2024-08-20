@@ -8,6 +8,7 @@
 
     section#login{
         width: 80vw;
+        height: 300px;
     }
 
     #imagem{
@@ -30,6 +31,10 @@
         font-size: 1em;
     }
 
+    div.campo > input{
+        transform: translateY(-13px);
+    }
+
 }
 
 
@@ -41,6 +46,7 @@
 
     section#login{
         width: 950px;
+        height: 360px;
     }
 
     #imagem{
@@ -60,6 +66,11 @@
 
     #formulario p{
         font-size: 1.2em;
+        margin: 20px 0px;
+    }
+
+    div.campo > input{
+        transform: translateY(-13.2px);
     }
 
 }
